@@ -9,6 +9,9 @@ chrome.webRequest.onBeforeSendHeaders.addListener(
         details.requestHeaders.push({
             name: "X-Forwarded-For",
             value: unblock_tvb.ip_addr
+        }, {
+            name: "Client-IP",
+            value: unblock_tvb.ip_addr
         });
 
         return {requestHeaders: details.requestHeaders};
