@@ -2,6 +2,8 @@
 
 A simple Chrome extension for bypassing the oversea limitation of TVB.com.
 
+绕过tvb.com海外限制简单的Chrome扩展。
+
 Installing this extension, you agree that it is only for study purposes and its authors take no responsibilities for any consequences.
 
 You can download the Chrome extension (crx) file from  http://bit.ly/Unblock-TVB-crx
